@@ -44,7 +44,7 @@ function App() {
         <img className='banner' src="images/Rick1.gif" alt="" />
       </div>
       <div className='img__container'>
-        <img className='img__title' src="/public/images/title.svg" alt="" />
+        <img className='img__title' src="images/title.svg" alt="" />
       </div>
       <form className='form__container' onSubmit={handleSubmit}>
         <input className='form__text' id='inputSearch' type="text" />
